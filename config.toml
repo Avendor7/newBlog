@@ -1,4 +1,4 @@
-baseURL = "https://avendor.github.io/newBlog"
+baseURL = "https://avendor.github.io/newBlog/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 
